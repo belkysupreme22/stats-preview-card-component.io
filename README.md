@@ -5,7 +5,7 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-stats-preview-card-using-flexbox-and-grid-combined-zZe0ChY3GM]
 - Live Site URL: [https://belkysupreme22.github.io/stats-preview-card-component.io/](https://your-live-site-url.com)
 
 ## My process
